@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.mainroom{
+  display: flex;
+}
+.mainroom div{
+  flex: 1;
+  padding-top: 10px;
+  height: 100px;
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: oblique;
+}
